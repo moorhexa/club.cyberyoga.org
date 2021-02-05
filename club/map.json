@@ -35,7 +35,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"streamURL",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"http:\/\/stream.rauschgift24.de:8000\/stream"
                 }],
