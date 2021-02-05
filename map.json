@@ -51,6 +51,12 @@
          "id":19,
          "name":"rules",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/moorhexa.github.io\/club.cyberyoga.org\/test.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -1023,15 +1029,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":52,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/moorhexa.github.io\/club.cyberyoga.org\/test.html"
                         }]
                 }],
          "tilewidth":32
