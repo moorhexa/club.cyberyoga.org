@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/s3.radio.co\/s42d133c4f\/listen"
+                 "value":"http:\/\/176.9.124.171:8000\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
