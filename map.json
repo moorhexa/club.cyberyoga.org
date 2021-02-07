@@ -37,7 +37,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"AMBIENT-BG-TECHNOCLUB.mp3"
+                 "value":"audio/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/club.cyberyoga.org\/club\/map.json"
+                 "value":"..\/club.cyberyoga.org\/maps\/club\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -216,7 +216,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1085,7 +1085,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1108,7 +1108,7 @@
         {
          "columns":32,
          "firstgid":321,
-         "image":"club\/chaos_zone_shared.png",
+         "image":"tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
