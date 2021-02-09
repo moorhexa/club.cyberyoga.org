@@ -121,7 +121,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/176.9.124.171:8000\/stream"
+                 "value":"audio\/default.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
