@@ -121,7 +121,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"audio\/default.mp3"
+                 "value":"..\/..\/audio\/default.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"..\/AMBIENT-BG-TECHNOCLUB.mp3"
+                 "value":"..\/..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
