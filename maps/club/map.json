@@ -121,7 +121,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/..\/audio\/default.mp3"
+                 "value":"https:\/\/stream.cyberyoga.org:8443\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
