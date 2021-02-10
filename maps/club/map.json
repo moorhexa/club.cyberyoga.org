@@ -119,7 +119,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"https:\/\/stream.cyberyoga.org:8443\/stream"
                 }],
