@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/..\/map.json"
+                 "value":"..\/..\/map.json#start_1st_doors"
                 }],
          "type":"tilelayer",
          "visible":true,
