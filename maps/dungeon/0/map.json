@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/club\/map.json#start_toilett"
+                 "value":"..\/..\/club\/map.json#start_toilett"
                 }],
          "type":"tilelayer",
          "visible":true,
