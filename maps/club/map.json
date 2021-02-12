@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"map.json#dj_exit_start",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"map.json#dj_exit_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -141,6 +141,12 @@
          "id":31,
          "name":"bar",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
