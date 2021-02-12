@@ -90,7 +90,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tiles\/floortileset.png",
+         "image":"..\/..\/tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -103,7 +103,7 @@
         {
          "columns":32,
          "firstgid":65,
-         "image":"..\/tiles\/chaos_zone_shared.png",
+         "image":"..\/..\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -116,7 +116,7 @@
         {
          "columns":10,
          "firstgid":2113,
-         "image":"..\/tiles\/2d-world-helper.png",
+         "image":"..\/..\/tiles\/2d-world-helper.png",
          "imageheight":32,
          "imagewidth":320,
          "margin":0,
@@ -129,7 +129,7 @@
         {
          "columns":16,
          "firstgid":2123,
-         "image":"..\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"..\/..\/tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
