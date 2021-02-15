@@ -17,7 +17,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"OpenWebsite",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cryptpad.fr\/pad\/#\/2\/pad\/edit\/8kXDG42K8UP933sl9sdPT6Jp\/embed\/"
                 }],
