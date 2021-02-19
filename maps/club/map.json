@@ -1438,6 +1438,19 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2635,
+         "image":"..\/..\/tiles\/rc3-mullana-neon-signs.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-neon-signs",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
