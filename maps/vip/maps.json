@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/maps\/map.json#dj"
+                 "value":"..\/club\/map.json#dj"
                 }],
          "type":"tilelayer",
          "visible":true,
