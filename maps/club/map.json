@@ -301,7 +301,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/stream.cyberyoga.org:8443\/stream"
+                 "value":"https:\/\/stream.cyberyoga.org\/radio\/8000\/radio"
                 }],
          "type":"tilelayer",
          "visible":true,
