@@ -335,7 +335,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jtsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"telefonzelle"
                 }],
