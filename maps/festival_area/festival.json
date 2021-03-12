@@ -175,7 +175,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/192.168.42.12:8000\/stream"
+                 "value":"https:\/\/stream.cyberyoga.org\/radio\/8010\/radio"
                 }],
          "type":"tilelayer",
          "visible":true,
