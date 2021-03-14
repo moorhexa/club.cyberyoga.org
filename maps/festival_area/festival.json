@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#dj_exit_start"
+                 "value":"festival.json#dj_exit_start"
                 }],
          "type":"tilelayer",
          "visible":true,
