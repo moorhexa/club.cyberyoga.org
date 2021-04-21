@@ -1,16 +1,9 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":5,
  "infinite":false,
  "layers":[
         {
-         "data":[2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 0, 0, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 0, 0, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 2114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":5,
          "id":3,
          "name":"jitsi_van",
@@ -19,7 +12,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"van"
+                 "value":"van-jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -76,6 +69,18 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2379, 2380, 0, 0, 0, 0, 0, 0, 0, 0, 2381, 2382, 0, 0, 0, 0, 0, 0, 0, 0, 2383, 2384, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":7,
+         "name":"caro",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[2216, 2147485847, 2198, 2198, 2198, 2198, 2198, 2198, 2198, 2199, 2232, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2232, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2232, 0, 0, 0, 0, 770, 0, 0, 0, 0, 2248, 3221227671, 1073744022, 1073744022, 1073744022, 1073744022, 1073744022, 1073744022, 1073744022, 1073744023],
          "height":5,
          "id":2,
@@ -97,12 +102,24 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 933, 0, 0, 2505, 2506, 2507, 2508, 0, 2506, 0, 0, 0, 0, 0, 0, 0, 0, 2147486154, 2147486153, 2506, 0, 0, 0, 2147486156, 2508, 2147486156, 2147486155, 2147486154, 2147486153, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 933, 0],
+         "height":5,
+         "id":8,
+         "name":"blingbling",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -129,6 +146,27 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":120,
+                         "tileid":865
+                        }, 
+                        {
+                         "duration":120,
+                         "tileid":866
+                        }, 
+                        {
+                         "duration":120,
+                         "tileid":867
+                        }, 
+                        {
+                         "duration":120,
+                         "tileid":866
+                        }],
+                 "id":868
+                }],
          "tilewidth":32
         }, 
         {
@@ -156,9 +194,92 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":2379,
+         "image":"..\/..\/tiles\/caro96px2.png",
+         "imageheight":96,
+         "imagewidth":70,
+         "margin":0,
+         "name":"caro96px2",
+         "spacing":0,
+         "tilecount":6,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2385,
+         "image":"..\/..\/tiles\/rc3-mullana-neon-signs.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-neon-signs",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":180,
+                         "tileid":105
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":110
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":76
+                        }],
+                 "id":120
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":180,
+                         "tileid":89
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":91
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":92
+                        }],
+                 "id":121
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":180,
+                         "tileid":6
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":70
+                        }],
+                 "id":122
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":180,
+                         "tileid":111
+                        }, 
+                        {
+                         "duration":180,
+                         "tileid":47
+                        }],
+                 "id":123
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.5,
  "width":10
 }
