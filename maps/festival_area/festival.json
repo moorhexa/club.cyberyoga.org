@@ -173,7 +173,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/stream.cyberyoga.org\/radio\/8010\/radio"
                 }],
