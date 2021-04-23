@@ -299,7 +299,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/stream.cyberyoga.org\/radio\/8000\/radio"
                 }],
@@ -317,7 +317,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"..\/..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
