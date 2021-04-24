@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"pinzette.cyberyoga.org"
+                 "value":"http:\/\/pinzette.cyberyoga.org"
                 }],
          "type":"tilelayer",
          "visible":true,
