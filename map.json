@@ -256,7 +256,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"ExitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"maps\/Laden\/Laden.json"
                 }],
