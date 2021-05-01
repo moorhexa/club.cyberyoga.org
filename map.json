@@ -215,9 +215,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiTrigger",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"telefonzelle"
+                 "value":"cyberyoga-telefonzelle"
                 }],
          "type":"tilelayer",
          "visible":true,
