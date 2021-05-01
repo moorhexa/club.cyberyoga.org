@@ -229,7 +229,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"popsofa"
+                 "value":"cyberyoga-popsofa"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,7 +247,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"bar"
+                 "value":"cyberyoga-bar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"telefonzelle"
+                 "value":"cyberyoga-telefonzelle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -493,7 +493,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"dancefloor"
+                 "value":"cyberyoga-dancefloor"
                 }],
          "type":"tilelayer",
          "visible":true,

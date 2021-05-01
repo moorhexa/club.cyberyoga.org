@@ -12,7 +12,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"van-jitsi"
+                 "value":"cyberyoga-van-jitsi"
                 }],
          "type":"tilelayer",
          "visible":true,

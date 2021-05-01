@@ -162,7 +162,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"office"
+                 "value":"cyberyoga-office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -198,7 +198,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"telefonzelle"
+                 "value":"cyberyoga-telefonzelle"
                 }],
          "type":"tilelayer",
          "visible":true,
