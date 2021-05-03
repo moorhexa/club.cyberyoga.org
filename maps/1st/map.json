@@ -204,7 +204,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cyberyoga-meeting"
+                 "value":"cyberyoga-workshop"
                 }],
          "type":"tilelayer",
          "visible":false,
