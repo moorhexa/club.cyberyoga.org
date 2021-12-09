@@ -119,7 +119,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -196,21 +196,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":2,
-         "firstgid":2379,
-         "image":"..\/..\/tiles\/caro96px2.png",
-         "imageheight":96,
-         "imagewidth":70,
-         "margin":0,
-         "name":"caro96px2",
-         "spacing":0,
-         "tilecount":6,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":16,
-         "firstgid":2385,
+         "firstgid":2379,
          "image":"..\/..\/tiles\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
@@ -280,7 +267,7 @@
         }, 
         {
          "columns":32,
-         "firstgid":2641,
+         "firstgid":2635,
          "image":"..\/..\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
@@ -293,6 +280,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":10
 }
