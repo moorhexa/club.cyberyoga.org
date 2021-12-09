@@ -1,21 +1,21 @@
-- [ ] 2d-world-helper.png (selbst gemacht)
+- [x] 2d-world-helper.png (selbst gemacht)
 - [ ] flamingo.png
 - [ ] nature_outside-tilef.png
 - [ ] shop-and-hospital.png
 - [ ] banners.png
-- [ ] floortileset.png
+- [x] floortileset.png (gehören zum starterpack)
 - [ ] police_car_burning.png
 - [ ] silence.png
 - [ ] chaos_zone_shared.png
 - [ ] food_and_drinks.png
 - [ ] rc3-mullana-neon-signs.png
 - [ ] tilesets_deviant_milkian_1.png
-- [ ] club-lights.xcf (selbst gemacht)
+- [x] club-lights.xcf (selbst gemacht)
 - [ ] Interior_Tileset.png
 - [ ] request_april.png
 - [ ] wall_decoration_tileset.png
-- [ ] dark.png (selbst gemacht)
-- [ ] light1.png (selbst gemacht)
+- [x] dark.png (selbst gemacht)
+- [x] light1.png (selbst gemacht)
 - [ ] retrowave.png
 - [ ] djequipment.png
 - [ ] modern-day-shop-add-on-left.png
