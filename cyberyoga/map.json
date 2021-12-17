@@ -1470,7 +1470,7 @@
         {
          "columns":16,
          "firstgid":3671,
-         "image":"tiles\/wall_decoration_tileset.png",
+         "image":"..\/sharedtiles\/wall_decoration_tileset.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
