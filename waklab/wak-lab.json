@@ -152,7 +152,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":41,
          "x":0,
          "y":0
@@ -164,7 +164,7 @@
          "name":"Animation",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":41,
          "x":0,
          "y":0
