@@ -1071,6 +1071,25 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":1013,
+         "image":"..\/sharedtiles\/2d-world-helper.png",
+         "imageheight":32,
+         "imagewidth":320,
+         "margin":0,
+         "name":"2d-world-helper",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
+         "spacing":0,
+         "tilecount":10,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
