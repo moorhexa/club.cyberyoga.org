@@ -26,3 +26,4 @@
 - [x] modern-day-shop-add-on-left.png
     - [x] **entfernen**
 - [ ] seating_tileset.png [Quelle](https://github.com/mrgnz/wa_aware_rc3/blob/main/seating_tileset.png)
+- [x] Author:surt [Quelle](https://opengameart.org/content/plums; https://opengameart.org/sites/default/files/plums.png) CC0
