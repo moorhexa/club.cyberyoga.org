@@ -151,12 +151,6 @@
          "id":17,
          "name":"LightAndShadow",
          "opacity":0.4,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC-0"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":41,
@@ -215,17 +209,23 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":8,
          "firstgid":1,
-         "image":"floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -244,11 +244,17 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"wak-lab-tileset.png",
+         "image":"tiles\/wak-lab-tileset.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
          "name":"wak-lab-tileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
@@ -698,11 +704,17 @@
         {
          "columns":15,
          "firstgid":577,
-         "image":"ExtraTiles.png",
+         "image":"tiles\/ExtraTiles.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
          "name":"ExtraTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":180,
          "tileheight":32,
@@ -1044,11 +1056,17 @@
         {
          "columns":16,
          "firstgid":757,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
          "name":"Office",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC-0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1056,6 +1074,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":41
 }
