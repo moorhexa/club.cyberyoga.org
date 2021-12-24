@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge\/map.json"
+                 "value":"world:\/\/lounge\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,12 +188,6 @@
          "id":8,
          "name":"holes",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"mapCopyright",
-                 "type":"string",
-                 "value":"cc0"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -262,6 +256,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-ground",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -6516,6 +6516,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-background",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -7999,6 +8005,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -8012,6 +8024,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -8025,6 +8043,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"bouncer",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
