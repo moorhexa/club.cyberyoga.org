@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#reentry-waklab"
+                 "value":"..\/main.json#start_wak"
                 }],
          "type":"tilelayer",
          "visible":true,
