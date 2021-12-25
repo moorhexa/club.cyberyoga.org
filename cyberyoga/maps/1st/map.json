@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"startlayer",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/club\/map.json#start_1st"
                 }],
@@ -64,7 +64,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/..\/map.json#start_1st_doors"
                 }],
