@@ -317,7 +317,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
+         "value":"https:\/\/static.rc3.world\/scripts\/default\/bundle.js.map"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
