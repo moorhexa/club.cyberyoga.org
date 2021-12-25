@@ -389,9 +389,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"."
+                 "value":"..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
