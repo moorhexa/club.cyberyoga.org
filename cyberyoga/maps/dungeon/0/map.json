@@ -360,6 +360,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
