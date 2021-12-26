@@ -155,7 +155,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cyberyoga-telefonzelle"
+                 "value":"shared-cy-telefon"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
