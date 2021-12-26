@@ -24,7 +24,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cyberyoga-telefonzelle"
+                 "value":"shared-cy-telefon"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -65,6 +70,12 @@
                  "height":24,
                  "id":1,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"xBQuEoGXO8nltUbi91ZerG74MX3sFjzf4HJfcrjnP7PE9AIUDp"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -73,12 +84,6 @@
                  "y":166.666666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"xBQuEoGXO8nltUbi91ZerG74MX3sFjzf4HJfcrjnP7PE9AIUDp"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
