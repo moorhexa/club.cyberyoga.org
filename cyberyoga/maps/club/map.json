@@ -424,7 +424,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
+                 "value":"..\/..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -439,6 +439,11 @@
          "name":"ambient",
          "opacity":1,
          "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"playAudio",
                  "type":"string",
