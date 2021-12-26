@@ -247,12 +247,6 @@
          "id":5,
          "name":"objects",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"cc0"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -265,12 +259,6 @@
          "id":13,
          "name":"vip_door_c",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -424,6 +412,12 @@
                  "y":1633.20333188887
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"2hTNIbUT9QviJUaEdiW1OQjVYJNoNQwOunGt6H78a49dKpfj1H"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -604,6 +598,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":2394,
          "tileheight":32,
@@ -617,6 +617,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"dungeon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
