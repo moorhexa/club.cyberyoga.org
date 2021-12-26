@@ -389,7 +389,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
                 }],
@@ -479,7 +479,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/..\/map.json#start_clubdoors"
                 }],
@@ -536,6 +536,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"cyberyoga-popsofa"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -554,6 +559,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"cyberyoga-bar"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -572,6 +582,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"cyberyoga-dancefloor"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -589,7 +604,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"cyberyoga-telefonzelle"
+                 "value":"shared-cy-telefon"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -608,6 +628,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"cyberyoga-baellebad"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
