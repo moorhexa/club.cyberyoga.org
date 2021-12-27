@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/vizak\/main.json"
+                 "value":"#"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -424,7 +424,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/cyberyoga.streamproxy.rc3.world\/stream.mp3"
+                 "value":"#"
                 }],
          "type":"tilelayer",
          "visible":true,
