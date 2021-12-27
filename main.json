@@ -8183,19 +8183,15 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyight",
-                         "type":"string",
-                         "value":"cc0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -8206,6 +8202,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"wak-lab",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":8,
          "tileheight":32,
@@ -8252,7 +8254,7 @@
          "name":"cyberyoga",
          "properties":[
                 {
-                 "name":"tilesetCopyight",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"cc0"
                 }],
