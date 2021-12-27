@@ -8271,6 +8271,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"bbf_flagge",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc0"
+                }],
          "spacing":0,
          "tilecount":20,
          "tileheight":32,
