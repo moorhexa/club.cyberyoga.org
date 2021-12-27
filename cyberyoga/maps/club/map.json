@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/vizak\/map.json"
+                 "value":"world:\/\/vizak\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
