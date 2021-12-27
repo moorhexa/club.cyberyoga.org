@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#dj_exit_start"
+                 "value":"map.json#dj_exit_start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -418,7 +418,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"#"
+                 "value":"https:\/\/cyberyoga.streamproxy.rc3.world\/stream.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
