@@ -418,7 +418,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/..\/audio\/AMBIENT-BG-TECHNOCLUB.mp3"
+                 "value":"https:\/\/cyberyoga.streamproxy.rc3.world\/stream.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
