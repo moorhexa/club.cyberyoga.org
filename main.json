@@ -8234,13 +8234,7 @@
                          "duration":500,
                          "tileid":3
                         }],
-                 "id":5,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyight",
-                         "type":"string",
-                         "value":"cc0"
-                        }]
+                 "id":5
                 }],
          "tilewidth":32
         }, 
@@ -8359,13 +8353,7 @@
                          "duration":500,
                          "tileid":13
                         }],
-                 "id":17,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"cc0"
-                        }]
+                 "id":17
                 }],
          "tilewidth":32
         }],
