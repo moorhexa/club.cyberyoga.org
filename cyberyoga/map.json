@@ -40,6 +40,11 @@
                  "value":"https:\/\/europe-west1-flachwitz.cloudfunctions.net\/haha"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press on SPACE to see a flachwitz"
