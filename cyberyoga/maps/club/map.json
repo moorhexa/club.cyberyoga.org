@@ -1087,9 +1087,39 @@
          "width":46,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":75,
+         "name":"chat_wall",
+         "objects":[
+                {
+                 "height":66,
+                 "id":8,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/flecno.de\/wall"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":178.666666666667,
+                 "x":230.666666666667,
+                 "y":8.66666666666667
+                }],
+         "offsetx":14,
+         "offsety":-14,
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":75,
- "nextobjectid":8,
+ "nextlayerid":76,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
