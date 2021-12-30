@@ -1106,12 +1106,12 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":178.666666666667,
+                 "width":387.67,
                  "x":230.666666666667,
                  "y":8.66666666666667
                 }],
-         "offsetx":14,
-         "offsety":-14,
+         "offsetx":-103.666666666667,
+         "offsety":-11.8333333333333,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1119,7 +1119,7 @@
          "y":0
         }],
  "nextlayerid":76,
- "nextobjectid":10,
+ "nextobjectid":14,
  "orientation":"orthogonal",
  "properties":[
         {
